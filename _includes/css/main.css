@@ -377,3 +377,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+.modal-body p{
+    text-align: left;
+    word-wrap: break-word;
+}
