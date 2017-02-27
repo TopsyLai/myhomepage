@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+title: 代码集
+date: 2017-01
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: 01-2017
+client: HTML5 CSS3
+category: Web 前端开发
+description: 一些小玩意，例如使用canvas制作的擦苹果特效，使用WebRtc和canvas制作的相机（只有google浏览器支持），还有用node写的爬取知乎图片的爬虫等等小玩意
 ---
