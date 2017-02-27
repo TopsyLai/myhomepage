@@ -1,9 +1,9 @@
 # Site settings
-title: Mr.Chen
+title: 陈先生
 email: 471816299@qq.com
 url: https://0wade.github.io/myhomepage
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web 前端开发 - Graphic Artist - User Experience Designer"
+description: "Web前端开发者一枚，喜欢JS，特别是原生JS，有轻微代码洁癖，喜欢钻研新鲜的小玩意，喜欢和人合作开发许多小东西，对于如何提升用户体验很有兴趣."
+skills: "Web前端开发 - JS工程师 - HTML5"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -13,7 +13,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -39,13 +39,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: ##
   - title: facebook
-    url:
+    url:##
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: ##
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: ##
   - title: github
     url: http://github.com/0wade
 
@@ -54,7 +54,7 @@ address:
   - line: 广州 广东 中国
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！'
 
 # Build settings
 markdown: kramdown
