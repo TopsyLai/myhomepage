@@ -22,7 +22,7 @@ $(function(){
     $("#downPdf").click(function(event){
 		html2canvas(document.body).then(function(canvas) {
 			var img=canvas.toDataURL('png');
-			$("#downPdf").href=img;
+			$("#downPdf").attr('href',img);
 		});
     });
 });
