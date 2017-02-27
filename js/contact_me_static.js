@@ -17,3 +17,6 @@ $(function() {
 $('#name').focus(function() {
     $('#success').html('');
 });
+$(function(){
+    $("ul.list-inline").append('<li><a href="https://segmentfault.com/u/codedemon" class="btn-social btn-outline" style="border-radius: 0;width: 150px;">segmentfault</a></li>');
+});
