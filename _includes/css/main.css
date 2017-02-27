@@ -163,6 +163,7 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    border: 1px solid #2c3e50;	
 }
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
