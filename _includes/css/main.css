@@ -377,7 +377,3 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
-.fa-segmentfault:after{
-    content:"";
-    background:url(https://sf-static.b0.upaiyun.com/v-58b06542/global/img/logo-b.svg) 50% no-repeat;
-}
