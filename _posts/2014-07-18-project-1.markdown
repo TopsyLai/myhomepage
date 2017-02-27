@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-17
+date: 2016-04-05
 img: cabin.png
 alt: image-alt
 project-date: 04-2016
 client: Start Bootstrap
 category: Web 前端开发
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: 编写在Webview中内嵌的Web页面，使用HTML5与app端（客户端）进行通讯，通过使用JsBridge和url等方式在Js与app端之间进行发送和获取消息以及硬件的控制交互，并且与服务端之间进行数据交互，从而实现在Webview中实现对智能设备的控制，（eg：定时开关灯，智能联动等）
 ---
