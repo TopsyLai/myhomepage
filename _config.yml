@@ -51,10 +51,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 广州 广东 中国
+  - line: 深圳-广东-中国
 
 # Credits content
-credits: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！'
+最后: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！'
 
 # Build settings
 markdown: kramdown
