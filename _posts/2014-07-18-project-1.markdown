@@ -9,4 +9,4 @@ project-date: 04-2016
 client: HTML5 Webview JS
 category: Web 前端开发
 description: 编写在Webview中内嵌的Web页面，使用HTML5与app端（客户端）进行通讯，通过使用JsBridge和url等方式在Js与app端之间进行发送和获取消息以及硬件的控制交互，并且与服务端之间进行数据交互，从而实现在Webview中实现对智能设备的控制，（eg：定时开关灯，智能联动等）
----
+--- 
