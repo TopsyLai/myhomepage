@@ -1,18 +1,11 @@
 # Site settings
 title: 陈先生
 email: 471816299@qq.com
-<<<<<<< HEAD
 url: https://0wade.github.io/myhomepage
 description: "Web前端开发者一枚，喜欢JS，特别是原生JS，有轻微代码洁癖，喜欢钻研新鲜的小玩意，喜欢和人合作开发许多小东西，对于如何提升用户体验很有兴趣."
 skills: "Web前端开发 - JS工程师 - HTML5"
 meta_author: 0zero Chen
-=======
-url: http://0wade.github.io/myhomepage
-description: "Web前端开发者一枚，喜欢JS，特别是原生JS，有轻微代码洁癖，喜欢钻研新鲜的小玩意，喜欢和人合作开发许多小东西，对于如何提升用户体验很有兴趣."
-skills: "Web前端开发 - JS工程师 - HTML5"
-meta_author: LastName FirstName
 
->>>>>>> master
 # Google webmaster tools
 google_verify:
 
@@ -44,7 +37,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-<<<<<<< HEAD
   ##- title: twitter
   ##  url: 
   ##- title: facebook
@@ -53,16 +45,6 @@ social:
   ##  url: 
   ##- title: bitbucket
   ##  url: 
-=======
-  - title: twitter
-    url: ##
-  - title: facebook
-    url:##
-  - title: stack-overflow
-    url: ##
-  - title: bitbucket
-    url: ##
->>>>>>> master
   - title: github
     url: http://github.com/0wade
 # Postal address (add as many lines as necessary)
@@ -70,7 +52,7 @@ address:
   - line: 深圳-广东-中国
 
 # Credits content
-credits: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！'
+credits: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！ 471816299@qq.com'
 
 # Build settings
 markdown: kramdown
