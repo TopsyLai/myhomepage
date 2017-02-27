@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: 智能家园
 date: 2016-04-05
 img: cabin.png
 alt: image-alt
