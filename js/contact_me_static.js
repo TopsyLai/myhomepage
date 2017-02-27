@@ -19,4 +19,7 @@ $('#name').focus(function() {
 });
 $(function(){
     $(".footer-above ul.list-inline").append('<li><a href="https://segmentfault.com/u/codedemon" class="btn-social btn-outline" style="border-radius: 0;width: 150px;">segmentfault</a></li>');
+    $("#downPdf").click(function(event){
+        event.preventDefault();
+    })
 });
