@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 09-2016
 client: Php Wechat 微信公众号
 category: PHP 开发
-description: 微信公众号php开发版，个人微信的测试号，玩一遍测试号的公众号功能
+description: 微信公众号php开发版，个人微信的测试号，玩一遍测试号的公众号功能 
 ---
