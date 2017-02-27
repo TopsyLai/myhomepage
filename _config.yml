@@ -1,5 +1,5 @@
 # Site settings
-title: Mr.Chen
+title: 陈先生
 email: 471816299@qq.com
 url: https://0wade.github.io/myhomepage
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -39,13 +39,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: ##
   - title: facebook
-    url:
+    url:##
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: ##
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: ##
   - title: github
     url: http://github.com/0wade
 
@@ -54,7 +54,7 @@ address:
   - line: 广州 广东 中国
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！'
 
 # Build settings
 markdown: kramdown
