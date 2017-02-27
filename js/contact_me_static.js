@@ -20,10 +20,9 @@ $('#name').focus(function() {
 $(function(){
     $(".footer-above ul.list-inline").append('<li><a href="https://segmentfault.com/u/codedemon" class="btn-social btn-outline" style="border-radius: 0;width: 150px;">segmentfault</a></li>');
     $("#downPdf").click(function(event){
-        var pdf = new jsPDF();
-        pdf.addHTML(document.body,function() {
-        	var string = pdf.output('datauristring');
-        });
-        pdf.save('a4.pdf')
+		html2canvas(document.body).then(function(canvas) {
+			var img=canvas.toDataURL('png');
+			$("#downPdf").href=img;
+		});
     });
 });
