@@ -57,3 +57,5 @@ credits: '如果你对我有兴趣的话，不妨给我发个面试邀请吧！ 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-cayman
